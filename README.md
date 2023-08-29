@@ -1,4 +1,6 @@
-# Generative Adversarial Networks
+# Conditional Generative Adversarial Networks (cGAN)
+
+![generated_image_set](https://github.com/LeoTheG/conditional-gan-handwriting/assets/6187214/71451e17-bcdc-4b04-988b-64d1537613b7)
 
 ## Training
 
